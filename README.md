@@ -10,8 +10,10 @@ The goal of ShinyCICD is to provide a simple example of packaged Shiny app to sh
 
 You can install ShinyCICD from GitHub with
 
-``` r
-remotes::install_github("miraisolutions/ShinyCICD-min")
+```r
+
+remotes::install_github("amit-agni/ShinyCICD-min")
+
 ```
 
 The corresponding Shiny app can be then served launched by simply calling the `run_app()` exported function:
